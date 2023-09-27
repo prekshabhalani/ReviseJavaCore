@@ -1,0 +1,3 @@
+lower camel case for variables and methods, variableName
+upper camel case for reference types such as Enums, Classes and Interfaces. ClassName
+Screaming snake case is used for constant variables. CONSTANT_NAME
